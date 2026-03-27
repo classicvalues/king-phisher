@@ -9,7 +9,7 @@ blinker==1.4
 boltons==19.1.0
 cryptography==41.0.0
 dnspython==1.16.0
-ecdsa==0.13.3
+ecdsa==0.19.2
 email-validator==1.0.4
 geoip2==2.9.0
 geojson==2.5.0
